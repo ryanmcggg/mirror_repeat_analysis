@@ -35,9 +35,8 @@ Open Jupyter Notebook file "github mirror repeats.ipynb" <br>
 Further instructions are included within the notebook, including instructions for creating directories. <br>
 Run each notebook cell in order. <br>
  <br>
-Run time is approximately 3 hours on a "normal" desktop computer). <br>
- <br>
 Expected output: <br>
 All plots (.pdf images) included in the manuscript. <br>
 Various temporary or intermediate files and databases in compressed .csv or .pickle format. <br>
 Note: temporary files can be used to resume running from various points. <br>
+Run time is approximately 3 hours on a "normal" desktop computer). <br>
