@@ -13,7 +13,6 @@ Miniconda installation of Python 3.12.8	64bit    - https://docs.anaconda.com/min
 Additional Python libraries: <br>
 FastaPy			- https://github.com/aziele/fastapy <br>
 Plotly			- https://plotly.com/python/getting-started/ <br>
-Liftover		- https://pypi.org/project/liftover/ <br>
 Pandas			- https://pandas.pydata.org/ <br>
 Numpy			- https://numpy.org/ <br>
 Scipy.stats		- https://docs.scipy.org/doc/scipy/reference/stats.html <br>
