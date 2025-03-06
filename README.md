@@ -1,14 +1,8 @@
-# mirror_repeat_analysis <br>
-Code related to submission of manuscript by McGinty, Lyskova and Mirkin, 2025. <br>
-Will be updated shortly with more information. <br>
-
-
-
 # Supplementary Code - README
 
 # The origin of mirror repeats in the human genome
 
-## Ryan McGinty, Alisa Lyskova, and Sergei Mirkin
+## Ryan McGinty, Alisa Lyskova, and Sergei Mirkin, 2025
 
 #### For questions, contact ryan_mcginty@hms.harvard.edu
 
