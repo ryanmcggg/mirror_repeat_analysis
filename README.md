@@ -36,7 +36,7 @@ Further instructions are included within the notebook, including instructions fo
 Run each notebook cell in order. <br>
  <br>
 Expected output: <br>
-All plots (.pdf images) included in the manuscript. <br>
-Various temporary or intermediate files and databases in compressed .csv or .pickle format. <br>
-Note: temporary files can be used to resume running from various points. <br>
+All plots (.pdf images) included in the manuscript, along with several plots requested by reviewers. <br>
+Various temporary/intermediate files in .pickle format. <br>
+Note: temporary files can be used to resume after completing the main data processing component. Ideal for modifying plots, etc. <br>
 Run time is approximately 3 hours on a "normal" desktop computer). <br>
